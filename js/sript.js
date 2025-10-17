@@ -3,3 +3,4 @@ numB = 20;
 
 res = numB + numA
 console.log(res)
+print("hola")
